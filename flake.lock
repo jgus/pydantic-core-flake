@@ -10,16 +10,16 @@
         ]
       },
       "locked": {
-        "lastModified": 1787956008,
+        "lastModified": 1787959529,
         "narHash": "sha256-7zbjVfZwJQZE5Aqf7xCVljrDvFQJjQsTGO3VtGMdISE=",
         "owner": "jgus",
         "repo": "flake-lib",
-        "rev": "4f234dfa8439da1c61a561352b54e9e482fa5a52",
+        "rev": "16c45f7e68829c3291b28203684f168b7dd284dc",
         "type": "github"
       },
       "original": {
         "owner": "jgus",
-        "ref": "feat/pypi-build-failure-hash",
+        "ref": "v1",
         "repo": "flake-lib",
         "type": "github"
       }
